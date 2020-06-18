@@ -1,0 +1,39 @@
+body {
+    /*display: flex;*/
+    position: relative;
+    margin: 0px 90px;
+    max-width: 100%;
+}
+
+#container > p {
+    font-weight: bold;
+    font-size: 35px;
+    line-height: 42px;
+}
+
+#table {
+    
+    width: 1228px;
+    align-items: center;
+
+}
+
+thead {
+    background-color: #00945E;
+    color: #FFFFFF;
+}
+
+.table table-light {
+    stroke: #00945E;
+    font-size: 16px;
+    line-height: 19px;
+    align-self: center;
+}
+
+.ministry {
+    color: #00945E;
+}
+
+.company {
+    color: #6765EC;
+}
